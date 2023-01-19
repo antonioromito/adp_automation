@@ -18,7 +18,7 @@ In order to run this script, you will need to have the following software instal
 
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/YOUR-USERNAME/ADP-Login-Automation.git`
+`git clone https://github.com/antonioromito/adp_automation.git`
 
 2. Install Selenium by running the following command:
 
