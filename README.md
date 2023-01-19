@@ -45,7 +45,7 @@ Antonio Romito  - Initial work - [My GitHub Profile](https://github.com/antonior
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
 ## Acknowledgments
 
