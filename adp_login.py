@@ -30,7 +30,7 @@ def main():
     parser = argparse.ArgumentParser(description='ADP Login')
     parser.add_argument('--username', dest='ADP_USERNAME', required=True, help='ADP login username')
     parser.add_argument('--password', dest='ADP_PASSWORD', required=True, help='ADP login password')
-    parser.add_argument('--headless', dest='HEADLESS', default=False, type=bool, help='Boolean to run browser in headless mode')
+    parser.add_argument('--headless', dest='HEADLESS', default=False, type=bool, help='Boolean to run browser in headless mode', choices=["True", "False"])
     args = parser.parse_args()
     adp_login = ADPLogin()
     adp_login.execute_login(args.ADP_USERNAME, args.ADP_PASSWORD, args.HEADLESS)
